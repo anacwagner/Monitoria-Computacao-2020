@@ -1,0 +1,1501 @@
+Eleitor#	Região	Candidato
+1	Oeste: Outros	Capitã Cloroquina 
+2	Oeste: Barra e JPA	Pipi de Jorge 
+3	Oeste: Barra e JPA	Enia da Toca da Onça 
+4	Oeste: Grande Bangu	Herminho Anão da VGC 
+5	Oeste: Barra e JPA	Zé Perninha 
+6	Grande Méier	Zé Perninha 
+7	Oeste: Barra e JPA	Pipi de Jorge 
+8	Oeste: Outros	Dudu Cremoso 
+9	Oeste: Grande Bangu	Zé Perninha 
+10	Oeste: Barra e JPA	Zé Perninha 
+11	Grande Méier	Pipi de Jorge 
+12	Oeste: Grande Bangu	Dudu Cremoso 
+13	Grande Méier	Herminho Anão da VGC 
+14	Grande Méier	Ferreira do Suvacão 
+15	Grande Méier	Dudu Cremoso 
+16	Oeste: Grande Bangu	Capitã Cloroquina 
+17	Grande Méier	Enia da Toca da Onça 
+18	Oeste: Grande Bangu	Alessandro Fuscão 
+19	Oeste: Grande Bangu	Capitã Cloroquina 
+20	Oeste: Barra e JPA	Capitã Cloroquina 
+21	Norte	Dudu Cremoso 
+22	Oeste: Grande Bangu	Ferreira do Suvacão 
+23	Grande Méier	Adriano Pirulito 
+24	Grande Méier	Dudu Cremoso 
+25	Oeste: Grande Bangu	Enia da Toca da Onça 
+26	Norte	Herminho Anão da VGC 
+27	Norte	Zé Perninha 
+28	Oeste: Grande Bangu	Capitã Cloroquina 
+29	Oeste: Outros	Pipi de Jorge 
+30	Oeste: Barra e JPA	Pipi de Jorge 
+31	Oeste: Barra e JPA	Alessandro Fuscão 
+32	Oeste: Outros	Adriano Pirulito 
+33	Oeste: Outros	Ferreira do Suvacão 
+34	Oeste: Outros	Ferreira do Suvacão 
+35	Oeste: Barra e JPA	Pé de Pato do Lixo 
+36	Oeste: Barra e JPA	Adriano Pirulito 
+37	Oeste: Outros	Herminho Anão da VGC 
+38	Oeste: Barra e JPA	Zé Perninha 
+39	Oeste: Barra e JPA	Pipi de Jorge 
+40	Norte	Pé de Pato do Lixo 
+41	Norte	Alessandro Fuscão 
+42	Oeste: Barra e JPA	Pé de Pato do Lixo 
+43	Grande Méier	Pipi de Jorge 
+44	Oeste: Grande Bangu	Pipi de Jorge 
+45	Norte	Alessandro Fuscão 
+46	Grande Méier	Herminho Anão da VGC 
+47	Norte	Pé de Pato do Lixo 
+48	Oeste: Grande Bangu	Pé de Pato do Lixo 
+49	Oeste: Barra e JPA	Dudu Cremoso 
+50	Grande Méier	Pé de Pato do Lixo 
+51	Grande Méier	Pé de Pato do Lixo 
+52	Norte	Pé de Pato do Lixo 
+53	Oeste: Outros	Capitã Cloroquina 
+54	Oeste: Grande Bangu	Pé de Pato do Lixo 
+55	Oeste: Barra e JPA	Adriano Pirulito 
+56	Oeste: Grande Bangu	Zé Perninha 
+57	Grande Méier	Pé de Pato do Lixo 
+58	Oeste: Barra e JPA	Ferreira do Suvacão 
+59	Grande Méier	Ferreira do Suvacão 
+60	Oeste: Barra e JPA	Alessandro Fuscão 
+61	Oeste: Outros	Capitã Cloroquina 
+62	Grande Méier	Herminho Anão da VGC 
+63	Grande Méier	Herminho Anão da VGC 
+64	Oeste: Outros	Alessandro Fuscão 
+65	Oeste: Barra e JPA	Alessandro Fuscão 
+66	Norte	Enia da Toca da Onça 
+67	Oeste: Grande Bangu	Dudu Cremoso 
+68	Oeste: Grande Bangu	Capitã Cloroquina 
+69	Norte	Pipi de Jorge 
+70	Oeste: Barra e JPA	Pipi de Jorge 
+71	Oeste: Barra e JPA	Enia da Toca da Onça 
+72	Norte	Alessandro Fuscão 
+73	Oeste: Grande Bangu	Enia da Toca da Onça 
+74	Oeste: Barra e JPA	Adriano Pirulito 
+75	Norte	Adriano Pirulito 
+76	Oeste: Outros	Ferreira do Suvacão 
+77	Grande Méier	Dudu Cremoso 
+78	Oeste: Grande Bangu	Pé de Pato do Lixo 
+79	Oeste: Barra e JPA	Herminho Anão da VGC 
+80	Oeste: Barra e JPA	Pé de Pato do Lixo 
+81	Norte	Pipi de Jorge 
+82	Oeste: Outros	Pé de Pato do Lixo 
+83	Oeste: Outros	Alessandro Fuscão 
+84	Oeste: Barra e JPA	Zé Perninha 
+85	Oeste: Outros	Adriano Pirulito 
+86	Grande Méier	Alessandro Fuscão 
+87	Oeste: Outros	Enia da Toca da Onça 
+88	Oeste: Outros	Pé de Pato do Lixo 
+89	Oeste: Outros	Dudu Cremoso 
+90	Grande Méier	Alessandro Fuscão 
+91	Norte	Capitã Cloroquina 
+92	Oeste: Outros	Dudu Cremoso 
+93	Oeste: Barra e JPA	Capitã Cloroquina 
+94	Norte	Ferreira do Suvacão 
+95	Oeste: Grande Bangu	Enia da Toca da Onça 
+96	Norte	Pé de Pato do Lixo 
+97	Oeste: Outros	Ferreira do Suvacão 
+98	Oeste: Grande Bangu	Dudu Cremoso 
+99	Oeste: Barra e JPA	Pipi de Jorge 
+100	Oeste: Grande Bangu	Enia da Toca da Onça 
+101	Norte	Alessandro Fuscão 
+102	Grande Méier	Alessandro Fuscão 
+103	Oeste: Barra e JPA	Dudu Cremoso 
+104	Oeste: Grande Bangu	Pé de Pato do Lixo 
+105	Oeste: Barra e JPA	Herminho Anão da VGC 
+106	Oeste: Grande Bangu	Capitã Cloroquina 
+107	Grande Méier	Adriano Pirulito 
+108	Norte	Alessandro Fuscão 
+109	Norte	Ferreira do Suvacão 
+110	Grande Méier	Dudu Cremoso 
+111	Oeste: Grande Bangu	Zé Perninha 
+112	Norte	Zé Perninha 
+113	Norte	Ferreira do Suvacão 
+114	Oeste: Outros	Zé Perninha 
+115	Oeste: Outros	Zé Perninha 
+116	Grande Méier	Dudu Cremoso 
+117	Norte	Alessandro Fuscão 
+118	Oeste: Outros	Alessandro Fuscão 
+119	Grande Méier	Zé Perninha 
+120	Oeste: Barra e JPA	Pipi de Jorge 
+121	Norte	Pipi de Jorge 
+122	Oeste: Grande Bangu	Herminho Anão da VGC 
+123	Norte	Adriano Pirulito 
+124	Grande Méier	Herminho Anão da VGC 
+125	Oeste: Grande Bangu	Ferreira do Suvacão 
+126	Grande Méier	Capitã Cloroquina 
+127	Grande Méier	Enia da Toca da Onça 
+128	Grande Méier	Ferreira do Suvacão 
+129	Oeste: Barra e JPA	Dudu Cremoso 
+130	Oeste: Outros	Pé de Pato do Lixo 
+131	Norte	Pipi de Jorge 
+132	Norte	Alessandro Fuscão 
+133	Grande Méier	Pipi de Jorge 
+134	Oeste: Barra e JPA	Ferreira do Suvacão 
+135	Oeste: Grande Bangu	Enia da Toca da Onça 
+136	Grande Méier	Zé Perninha 
+137	Oeste: Grande Bangu	Alessandro Fuscão 
+138	Norte	Dudu Cremoso 
+139	Oeste: Outros	Pé de Pato do Lixo 
+140	Norte	Ferreira do Suvacão 
+141	Oeste: Grande Bangu	Enia da Toca da Onça 
+142	Norte	Pipi de Jorge 
+143	Oeste: Outros	Alessandro Fuscão 
+144	Oeste: Grande Bangu	Adriano Pirulito 
+145	Oeste: Outros	Dudu Cremoso 
+146	Norte	Adriano Pirulito 
+147	Grande Méier	Enia da Toca da Onça 
+148	Norte	Dudu Cremoso 
+149	Oeste: Outros	Adriano Pirulito 
+150	Oeste: Grande Bangu	Adriano Pirulito 
+151	Norte	Zé Perninha 
+152	Oeste: Barra e JPA	Pipi de Jorge 
+153	Norte	Enia da Toca da Onça 
+154	Grande Méier	Pipi de Jorge 
+155	Norte	Pé de Pato do Lixo 
+156	Grande Méier	Pipi de Jorge 
+157	Oeste: Barra e JPA	Zé Perninha 
+158	Oeste: Outros	Pipi de Jorge 
+159	Norte	Capitã Cloroquina 
+160	Grande Méier	Pipi de Jorge 
+161	Norte	Dudu Cremoso 
+162	Grande Méier	Dudu Cremoso 
+163	Oeste: Outros	Pé de Pato do Lixo 
+164	Oeste: Outros	Pé de Pato do Lixo 
+165	Oeste: Barra e JPA	Dudu Cremoso 
+166	Oeste: Outros	Pipi de Jorge 
+167	Oeste: Grande Bangu	Pipi de Jorge 
+168	Oeste: Barra e JPA	Ferreira do Suvacão 
+169	Grande Méier	Alessandro Fuscão 
+170	Oeste: Grande Bangu	Adriano Pirulito 
+171	Oeste: Barra e JPA	Herminho Anão da VGC 
+172	Oeste: Grande Bangu	Pipi de Jorge 
+173	Grande Méier	Zé Perninha 
+174	Grande Méier	Ferreira do Suvacão 
+175	Oeste: Outros	Alessandro Fuscão 
+176	Oeste: Outros	Capitã Cloroquina 
+177	Oeste: Grande Bangu	Pipi de Jorge 
+178	Grande Méier	Enia da Toca da Onça 
+179	Norte	Capitã Cloroquina 
+180	Oeste: Barra e JPA	Enia da Toca da Onça 
+181	Oeste: Barra e JPA	Capitã Cloroquina 
+182	Oeste: Grande Bangu	Capitã Cloroquina 
+183	Norte	Herminho Anão da VGC 
+184	Oeste: Grande Bangu	Pé de Pato do Lixo 
+185	Oeste: Barra e JPA	Dudu Cremoso 
+186	Oeste: Grande Bangu	Adriano Pirulito 
+187	Grande Méier	Enia da Toca da Onça 
+188	Grande Méier	Adriano Pirulito 
+189	Oeste: Grande Bangu	Zé Perninha 
+190	Oeste: Grande Bangu	Enia da Toca da Onça 
+191	Oeste: Barra e JPA	Adriano Pirulito 
+192	Oeste: Grande Bangu	Pipi de Jorge 
+193	Oeste: Barra e JPA	Pipi de Jorge 
+194	Oeste: Grande Bangu	Dudu Cremoso 
+195	Norte	Dudu Cremoso 
+196	Oeste: Barra e JPA	Capitã Cloroquina 
+197	Grande Méier	Alessandro Fuscão 
+198	Oeste: Grande Bangu	Enia da Toca da Onça 
+199	Oeste: Outros	Enia da Toca da Onça 
+200	Norte	Pé de Pato do Lixo 
+201	Oeste: Barra e JPA	Capitã Cloroquina 
+202	Grande Méier	Dudu Cremoso 
+203	Oeste: Outros	Herminho Anão da VGC 
+204	Oeste: Outros	Pipi de Jorge 
+205	Oeste: Outros	Capitã Cloroquina 
+206	Oeste: Outros	Alessandro Fuscão 
+207	Norte	Pé de Pato do Lixo 
+208	Grande Méier	Pé de Pato do Lixo 
+209	Oeste: Barra e JPA	Enia da Toca da Onça 
+210	Oeste: Outros	Capitã Cloroquina 
+211	Oeste: Barra e JPA	Ferreira do Suvacão 
+212	Norte	Pipi de Jorge 
+213	Oeste: Grande Bangu	Ferreira do Suvacão 
+214	Oeste: Grande Bangu	Dudu Cremoso 
+215	Oeste: Grande Bangu	Alessandro Fuscão 
+216	Grande Méier	Capitã Cloroquina 
+217	Grande Méier	Ferreira do Suvacão 
+218	Norte	Pé de Pato do Lixo 
+219	Norte	Zé Perninha 
+220	Grande Méier	Alessandro Fuscão 
+221	Oeste: Outros	Enia da Toca da Onça 
+222	Oeste: Grande Bangu	Adriano Pirulito 
+223	Oeste: Barra e JPA	Zé Perninha 
+224	Oeste: Barra e JPA	Alessandro Fuscão 
+225	Norte	Adriano Pirulito 
+226	Grande Méier	Capitã Cloroquina 
+227	Oeste: Barra e JPA	Capitã Cloroquina 
+228	Oeste: Barra e JPA	Herminho Anão da VGC 
+229	Oeste: Barra e JPA	Alessandro Fuscão 
+230	Grande Méier	Dudu Cremoso 
+231	Norte	Dudu Cremoso 
+232	Oeste: Grande Bangu	Capitã Cloroquina 
+233	Oeste: Outros	Herminho Anão da VGC 
+234	Oeste: Outros	Pé de Pato do Lixo 
+235	Oeste: Grande Bangu	Ferreira do Suvacão 
+236	Oeste: Grande Bangu	Zé Perninha 
+237	Oeste: Barra e JPA	Pipi de Jorge 
+238	Oeste: Outros	Enia da Toca da Onça 
+239	Oeste: Outros	Zé Perninha 
+240	Oeste: Outros	Herminho Anão da VGC 
+241	Oeste: Grande Bangu	Zé Perninha 
+242	Oeste: Grande Bangu	Herminho Anão da VGC 
+243	Oeste: Grande Bangu	Ferreira do Suvacão 
+244	Grande Méier	Enia da Toca da Onça 
+245	Oeste: Grande Bangu	Capitã Cloroquina 
+246	Oeste: Barra e JPA	Ferreira do Suvacão 
+247	Oeste: Outros	Pipi de Jorge 
+248	Oeste: Grande Bangu	Zé Perninha 
+249	Oeste: Grande Bangu	Pipi de Jorge 
+250	Oeste: Grande Bangu	Alessandro Fuscão 
+251	Oeste: Outros	Pipi de Jorge 
+252	Oeste: Grande Bangu	Capitã Cloroquina 
+253	Oeste: Outros	Enia da Toca da Onça 
+254	Grande Méier	Zé Perninha 
+255	Oeste: Outros	Pipi de Jorge 
+256	Norte	Capitã Cloroquina 
+257	Norte	Herminho Anão da VGC 
+258	Oeste: Barra e JPA	Adriano Pirulito 
+259	Norte	Zé Perninha 
+260	Oeste: Barra e JPA	Pipi de Jorge 
+261	Norte	Zé Perninha 
+262	Oeste: Grande Bangu	Dudu Cremoso 
+263	Oeste: Outros	Valéria Minha Prima 
+264	Oeste: Outros	Quinzinho da Água Parada 
+265	Grande Méier	Alessandro Fuscão 
+266	Grande Méier	Alessandro Fuscão 
+267	Grande Méier	Alessandro Fuscão 
+268	Oeste: Outros	Agenor Passa Régua 
+269	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+270	Oeste: Grande Bangu	Professor Goiaba 
+271	Grande Méier	Professor Goiaba 
+272	Norte	Ângela do Zé Rolinha 
+273	Norte	Adriano Pirulito 
+274	Oeste: Barra e JPA	Professor Goiaba 
+275	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+276	Norte	Quinzinho da Água Parada 
+277	Norte	Adriano Pirulito 
+278	Norte	Dudu Cremoso 
+279	Grande Méier	Quinzinho da Água Parada 
+280	Oeste: Grande Bangu	Agenor Passa Régua 
+281	Oeste: Barra e JPA	Enia da Toca da Onça 
+282	Oeste: Outros	Alessandro Fuscão 
+283	Oeste: Barra e JPA	Professor Goiaba 
+284	Norte	Enia da Toca da Onça 
+285	Grande Méier	Ângela do Zé Rolinha 
+286	Oeste: Outros	Alessandro Fuscão 
+287	Grande Méier	Enia da Toca da Onça 
+288	Grande Méier	Adriano Pirulito 
+289	Norte	Dudu Cremoso 
+290	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+291	Oeste: Outros	Gordinho da Usina 
+292	Norte	Ferreira do Suvacão 
+293	Oeste: Outros	Ângela do Zé Rolinha 
+294	Grande Méier	Gordinho da Usina 
+295	Oeste: Outros	Dudu Cremoso 
+296	Norte	Enia da Toca da Onça 
+297	Oeste: Outros	Ângela do Zé Rolinha 
+298	Grande Méier	Alessandro Fuscão 
+299	Grande Méier	Quinzinho da Água Parada 
+300	Norte	Ângela do Zé Rolinha 
+301	Oeste: Barra e JPA	Alessandro Fuscão 
+302	Grande Méier	Dudu Cremoso 
+303	Grande Méier	Quinzinho da Água Parada 
+304	Norte	Agenor Passa Régua 
+305	Oeste: Outros	Quinzinho da Água Parada 
+306	Oeste: Barra e JPA	Valéria Minha Prima 
+307	Grande Méier	Enia da Toca da Onça 
+308	Oeste: Outros	Enia da Toca da Onça 
+309	Oeste: Barra e JPA	Professor Goiaba 
+310	Grande Méier	Professor Goiaba 
+311	Oeste: Grande Bangu	Ferreira do Suvacão 
+312	Oeste: Outros	Ângela do Zé Rolinha 
+313	Oeste: Outros	Ferreira do Suvacão 
+314	Oeste: Barra e JPA	Adriano Pirulito 
+315	Oeste: Grande Bangu	Dudu Cremoso 
+316	Norte	Ângela do Zé Rolinha 
+317	Grande Méier	Agenor Passa Régua 
+318	Norte	Dudu Cremoso 
+319	Oeste: Grande Bangu	Alessandro Fuscão 
+320	Norte	Ângela do Zé Rolinha 
+321	Norte	Dudu Cremoso 
+322	Grande Méier	Agenor Passa Régua 
+323	Oeste: Grande Bangu	Valéria Minha Prima 
+324	Grande Méier	Gordinho da Usina 
+325	Oeste: Barra e JPA	Valéria Minha Prima 
+326	Oeste: Grande Bangu	Professor Goiaba 
+327	Norte	Valéria Minha Prima 
+328	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+329	Oeste: Barra e JPA	Valéria Minha Prima 
+330	Oeste: Grande Bangu	Agenor Passa Régua 
+331	Oeste: Grande Bangu	Dudu Cremoso 
+332	Oeste: Grande Bangu	Alessandro Fuscão 
+333	Grande Méier	Professor Goiaba 
+334	Norte	Professor Goiaba 
+335	Norte	Enia da Toca da Onça 
+336	Oeste: Outros	Dudu Cremoso 
+337	Norte	Dudu Cremoso 
+338	Grande Méier	Gordinho da Usina 
+339	Oeste: Grande Bangu	Professor Goiaba 
+340	Oeste: Barra e JPA	Quinzinho da Água Parada 
+341	Grande Méier	Ângela do Zé Rolinha 
+342	Grande Méier	Gordinho da Usina 
+343	Grande Méier	Valéria Minha Prima 
+344	Oeste: Outros	Alessandro Fuscão 
+345	Oeste: Barra e JPA	Enia da Toca da Onça 
+346	Norte	Ferreira do Suvacão 
+347	Norte	Alessandro Fuscão 
+348	Oeste: Barra e JPA	Alessandro Fuscão 
+349	Norte	Ângela do Zé Rolinha 
+350	Grande Méier	Alessandro Fuscão 
+351	Grande Méier	Ferreira do Suvacão 
+352	Oeste: Grande Bangu	Valéria Minha Prima 
+353	Grande Méier	Valéria Minha Prima 
+354	Oeste: Outros	Valéria Minha Prima 
+355	Oeste: Outros	Quinzinho da Água Parada 
+356	Oeste: Outros	Enia da Toca da Onça 
+357	Grande Méier	Enia da Toca da Onça 
+358	Norte	Dudu Cremoso 
+359	Oeste: Outros	Quinzinho da Água Parada 
+360	Oeste: Grande Bangu	Dudu Cremoso 
+361	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+362	Norte	Alessandro Fuscão 
+363	Norte	Adriano Pirulito 
+364	Oeste: Barra e JPA	Professor Goiaba 
+365	Norte	Adriano Pirulito 
+366	Grande Méier	Professor Goiaba 
+367	Norte	Valéria Minha Prima 
+368	Grande Méier	Adriano Pirulito 
+369	Oeste: Grande Bangu	Enia da Toca da Onça 
+370	Oeste: Barra e JPA	Agenor Passa Régua 
+371	Oeste: Barra e JPA	Dudu Cremoso 
+372	Grande Méier	Quinzinho da Água Parada 
+373	Oeste: Outros	Dudu Cremoso 
+374	Oeste: Barra e JPA	Professor Goiaba 
+375	Norte	Agenor Passa Régua 
+376	Oeste: Barra e JPA	Dudu Cremoso 
+377	Norte	Dudu Cremoso 
+378	Grande Méier	Agenor Passa Régua 
+379	Oeste: Outros	Adriano Pirulito 
+380	Norte	Dudu Cremoso 
+381	Oeste: Outros	Dudu Cremoso 
+382	Oeste: Barra e JPA	Professor Goiaba 
+383	Oeste: Grande Bangu	Adriano Pirulito 
+384	Oeste: Grande Bangu	Valéria Minha Prima 
+385	Oeste: Barra e JPA	Enia da Toca da Onça 
+386	Norte	Ângela do Zé Rolinha 
+387	Norte	Ferreira do Suvacão 
+388	Oeste: Grande Bangu	Ferreira do Suvacão 
+389	Norte	Quinzinho da Água Parada 
+390	Norte	Quinzinho da Água Parada 
+391	Grande Méier	Agenor Passa Régua 
+392	Grande Méier	Agenor Passa Régua 
+393	Oeste: Outros	Agenor Passa Régua 
+394	Oeste: Barra e JPA	Ferreira do Suvacão 
+395	Oeste: Outros	Valéria Minha Prima 
+396	Norte	Agenor Passa Régua 
+397	Oeste: Grande Bangu	Dudu Cremoso 
+398	Grande Méier	Professor Goiaba 
+399	Grande Méier	Ângela do Zé Rolinha 
+400	Norte	Gordinho da Usina 
+401	Oeste: Outros	Enia da Toca da Onça 
+402	Oeste: Grande Bangu	Agenor Passa Régua 
+403	Grande Méier	Ângela do Zé Rolinha 
+404	Grande Méier	Adriano Pirulito 
+405	Norte	Professor Goiaba 
+406	Oeste: Grande Bangu	Agenor Passa Régua 
+407	Oeste: Barra e JPA	Gordinho da Usina 
+408	Oeste: Outros	Ângela do Zé Rolinha 
+409	Norte	Dudu Cremoso 
+410	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+411	Oeste: Outros	Professor Goiaba 
+412	Oeste: Outros	Valéria Minha Prima 
+413	Norte	Agenor Passa Régua 
+414	Norte	Ferreira do Suvacão 
+415	Norte	Professor Goiaba 
+416	Oeste: Barra e JPA	Dudu Cremoso 
+417	Norte	Agenor Passa Régua 
+418	Oeste: Outros	Enia da Toca da Onça 
+419	Grande Méier	Valéria Minha Prima 
+420	Norte	Agenor Passa Régua 
+421	Oeste: Grande Bangu	Enia da Toca da Onça 
+422	Norte	Ângela do Zé Rolinha 
+423	Oeste: Grande Bangu	Alessandro Fuscão 
+424	Grande Méier	Ângela do Zé Rolinha 
+425	Grande Méier	Enia da Toca da Onça 
+426	Norte	Gordinho da Usina 
+427	Grande Méier	Ângela do Zé Rolinha 
+428	Norte	Professor Goiaba 
+429	Norte	Adriano Pirulito 
+430	Grande Méier	Alessandro Fuscão 
+431	Oeste: Outros	Quinzinho da Água Parada 
+432	Oeste: Barra e JPA	Ferreira do Suvacão 
+433	Norte	Agenor Passa Régua 
+434	Grande Méier	Ferreira do Suvacão 
+435	Oeste: Outros	Enia da Toca da Onça 
+436	Oeste: Outros	Valéria Minha Prima 
+437	Oeste: Grande Bangu	Alessandro Fuscão 
+438	Oeste: Outros	Valéria Minha Prima 
+439	Oeste: Grande Bangu	Valéria Minha Prima 
+440	Oeste: Outros	Valéria Minha Prima 
+441	Oeste: Grande Bangu	Adriano Pirulito 
+442	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+443	Grande Méier	Valéria Minha Prima 
+444	Oeste: Grande Bangu	Quinzinho da Água Parada 
+445	Norte	Enia da Toca da Onça 
+446	Oeste: Barra e JPA	Valéria Minha Prima 
+447	Oeste: Grande Bangu	Enia da Toca da Onça 
+448	Oeste: Outros	Ferreira do Suvacão 
+449	Grande Méier	Adriano Pirulito 
+450	Grande Méier	Adriano Pirulito 
+451	Grande Méier	Enia da Toca da Onça 
+452	Oeste: Outros	Ângela do Zé Rolinha 
+453	Oeste: Grande Bangu	Professor Goiaba 
+454	Oeste: Outros	Ângela do Zé Rolinha 
+455	Oeste: Grande Bangu	Enia da Toca da Onça 
+456	Oeste: Outros	Quinzinho da Água Parada 
+457	Norte	Quinzinho da Água Parada 
+458	Grande Méier	Quinzinho da Água Parada 
+459	Oeste: Outros	Quinzinho da Água Parada 
+460	Oeste: Grande Bangu	Quinzinho da Água Parada 
+461	Oeste: Outros	Quinzinho da Água Parada 
+462	Grande Méier	Adriano Pirulito 
+463	Grande Méier	Gordinho da Usina 
+464	Oeste: Grande Bangu	Agenor Passa Régua 
+465	Norte	Enia da Toca da Onça 
+466	Oeste: Grande Bangu	Ferreira do Suvacão 
+467	Oeste: Barra e JPA	Quinzinho da Água Parada 
+468	Oeste: Outros	Quinzinho da Água Parada 
+469	Oeste: Barra e JPA	Valéria Minha Prima 
+470	Oeste: Barra e JPA	Dudu Cremoso 
+471	Oeste: Grande Bangu	Ferreira do Suvacão 
+472	Grande Méier	Alessandro Fuscão 
+473	Grande Méier	Gordinho da Usina 
+474	Grande Méier	Gordinho da Usina 
+475	Oeste: Barra e JPA	Quinzinho da Água Parada 
+476	Norte	Quinzinho da Água Parada 
+477	Grande Méier	Quinzinho da Água Parada 
+478	Oeste: Outros	Ferreira do Suvacão 
+479	Norte	Gordinho da Usina 
+480	Oeste: Outros	Ângela do Zé Rolinha 
+481	Oeste: Outros	Gordinho da Usina 
+482	Oeste: Grande Bangu	Enia da Toca da Onça 
+483	Grande Méier	Alessandro Fuscão 
+484	Oeste: Grande Bangu	Dudu Cremoso 
+485	Oeste: Grande Bangu	Enia da Toca da Onça 
+486	Norte	Valéria Minha Prima 
+487	Grande Méier	Dudu Cremoso 
+488	Norte	Ferreira do Suvacão 
+489	Norte	Adriano Pirulito 
+490	Oeste: Barra e JPA	Professor Goiaba 
+491	Oeste: Outros	Professor Goiaba 
+492	Oeste: Grande Bangu	Adriano Pirulito 
+493	Norte	Ferreira do Suvacão 
+494	Oeste: Grande Bangu	Quinzinho da Água Parada 
+495	Oeste: Grande Bangu	Alessandro Fuscão 
+496	Oeste: Outros	Ferreira do Suvacão 
+497	Norte	Quinzinho da Água Parada 
+498	Oeste: Grande Bangu	Agenor Passa Régua 
+499	Norte	Professor Goiaba 
+500	Oeste: Grande Bangu	Quinzinho da Água Parada 
+501	Norte	Valéria Minha Prima 
+502	Grande Méier	Gordinho da Usina 
+503	Oeste: Outros	Professor Goiaba 
+504	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+505	Oeste: Barra e JPA	Valéria Minha Prima 
+506	Oeste: Grande Bangu	Dudu Cremoso 
+507	Grande Méier	Enia da Toca da Onça 
+508	Oeste: Outros	Enia da Toca da Onça 
+509	Oeste: Barra e JPA	Adriano Pirulito 
+510	Oeste: Grande Bangu	Valéria Minha Prima 
+511	Oeste: Outros	Quinzinho da Água Parada 
+512	Grande Méier	Ferreira do Suvacão 
+513	Oeste: Outros	Ferreira do Suvacão 
+514	Norte	Alessandro Fuscão 
+515	Norte	Ângela do Zé Rolinha 
+516	Oeste: Barra e JPA	Adriano Pirulito 
+517	Oeste: Outros	Ângela do Zé Rolinha 
+518	Oeste: Outros	Adriano Pirulito 
+519	Oeste: Barra e JPA	Dudu Cremoso 
+520	Norte	Gordinho da Usina 
+521	Oeste: Grande Bangu	Agenor Passa Régua 
+522	Oeste: Grande Bangu	Gordinho da Usina 
+523	Oeste: Outros	Quinzinho da Água Parada 
+524	Grande Méier	Dudu Cremoso 
+525	Oeste: Outros	Ferreira do Suvacão 
+526	Oeste: Outros	Ângela do Zé Rolinha 
+527	Grande Méier	Professor Goiaba 
+528	Norte	Agenor Passa Régua 
+529	Grande Méier	Ferreira do Suvacão 
+530	Oeste: Outros	Ferreira do Suvacão 
+531	Norte	Valéria Minha Prima 
+532	Oeste: Grande Bangu	Professor Goiaba 
+533	Norte	Enia da Toca da Onça 
+534	Norte	Adriano Pirulito 
+535	Oeste: Barra e JPA	Valéria Minha Prima 
+536	Norte	Gordinho da Usina 
+537	Oeste: Grande Bangu	Dudu Cremoso 
+538	Norte	Quinzinho da Água Parada 
+539	Oeste: Barra e JPA	Agenor Passa Régua 
+540	Oeste: Outros	Adriano Pirulito 
+541	Norte	Professor Goiaba 
+542	Oeste: Outros	Gordinho da Usina 
+543	Grande Méier	Enia da Toca da Onça 
+544	Oeste: Outros	Agenor Passa Régua 
+545	Norte	Adriano Pirulito 
+546	Oeste: Barra e JPA	Ferreira do Suvacão 
+547	Oeste: Grande Bangu	Professor Goiaba 
+548	Oeste: Outros	Alessandro Fuscão 
+549	Oeste: Barra e JPA	Adriano Pirulito 
+550	Grande Méier	Adriano Pirulito 
+551	Oeste: Barra e JPA	Alessandro Fuscão 
+552	Norte	Ângela do Zé Rolinha 
+553	Grande Méier	Professor Goiaba 
+554	Oeste: Outros	Quinzinho da Água Parada 
+555	Oeste: Grande Bangu	Adriano Pirulito 
+556	Oeste: Outros	Enia da Toca da Onça 
+557	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+558	Norte	Dudu Cremoso 
+559	Norte	Alessandro Fuscão 
+560	Oeste: Grande Bangu	Ferreira do Suvacão 
+561	Norte	Dudu Cremoso 
+562	Grande Méier	Ferreira do Suvacão 
+563	Oeste: Barra e JPA	Enia da Toca da Onça 
+564	Oeste: Barra e JPA	Gordinho da Usina 
+565	Oeste: Outros	Valéria Minha Prima 
+566	Norte	Ferreira do Suvacão 
+567	Oeste: Barra e JPA	Valéria Minha Prima 
+568	Oeste: Outros	Dudu Cremoso 
+569	Oeste: Barra e JPA	Adriano Pirulito 
+570	Norte	Ferreira do Suvacão 
+571	Grande Méier	Alessandro Fuscão 
+572	Oeste: Outros	Enia da Toca da Onça 
+573	Oeste: Barra e JPA	Professor Goiaba 
+574	Oeste: Outros	Valéria Minha Prima 
+575	Oeste: Outros	Enia da Toca da Onça 
+576	Oeste: Outros	Enia da Toca da Onça 
+577	Oeste: Outros	Ferreira do Suvacão 
+578	Norte	Agenor Passa Régua 
+579	Oeste: Outros	Gordinho da Usina 
+580	Grande Méier	Enia da Toca da Onça 
+581	Grande Méier	Quinzinho da Água Parada 
+582	Oeste: Outros	Dudu Cremoso 
+583	Oeste: Grande Bangu	Ferreira do Suvacão 
+584	Norte	Enia da Toca da Onça 
+585	Oeste: Outros	Valéria Minha Prima 
+586	Grande Méier	Quinzinho da Água Parada 
+587	Grande Méier	Valéria Minha Prima 
+588	Oeste: Outros	Adriano Pirulito 
+589	Grande Méier	Ferreira do Suvacão 
+590	Grande Méier	Gordinho da Usina 
+591	Grande Méier	Adriano Pirulito 
+592	Oeste: Barra e JPA	Gordinho da Usina 
+593	Oeste: Grande Bangu	Professor Goiaba 
+594	Oeste: Outros	Adriano Pirulito 
+595	Oeste: Outros	Adriano Pirulito 
+596	Norte	Ângela do Zé Rolinha 
+597	Oeste: Grande Bangu	Ferreira do Suvacão 
+598	Oeste: Barra e JPA	Quinzinho da Água Parada 
+599	Norte	Ferreira do Suvacão 
+600	Norte	Quinzinho da Água Parada 
+601	Oeste: Barra e JPA	Agenor Passa Régua 
+602	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+603	Oeste: Outros	Agenor Passa Régua 
+604	Oeste: Barra e JPA	Quinzinho da Água Parada 
+605	Grande Méier	Enia da Toca da Onça 
+606	Grande Méier	Quinzinho da Água Parada 
+607	Norte	Enia da Toca da Onça 
+608	Oeste: Barra e JPA	Valéria Minha Prima 
+609	Oeste: Outros	Enia da Toca da Onça 
+610	Oeste: Barra e JPA	Gordinho da Usina 
+611	Grande Méier	Ângela do Zé Rolinha 
+612	Norte	Alessandro Fuscão 
+613	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+614	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+615	Oeste: Outros	Agenor Passa Régua 
+616	Oeste: Outros	Ferreira do Suvacão 
+617	Oeste: Outros	Adriano Pirulito 
+618	Grande Méier	Adriano Pirulito 
+619	Norte	Gordinho da Usina 
+620	Oeste: Outros	Enia da Toca da Onça 
+621	Norte	Alessandro Fuscão 
+622	Oeste: Outros	Ângela do Zé Rolinha 
+623	Oeste: Barra e JPA	Dudu Cremoso 
+624	Oeste: Grande Bangu	Quinzinho da Água Parada 
+625	Norte	Dudu Cremoso 
+626	Oeste: Grande Bangu	Dudu Cremoso 
+627	Oeste: Outros	Quinzinho da Água Parada 
+628	Norte	Agenor Passa Régua 
+629	Oeste: Grande Bangu	Adriano Pirulito 
+630	Oeste: Barra e JPA	Dudu Cremoso 
+631	Grande Méier	Quinzinho da Água Parada 
+632	Oeste: Barra e JPA	Ferreira do Suvacão 
+633	Oeste: Outros	Ângela do Zé Rolinha 
+634	Oeste: Outros	Dudu Cremoso 
+635	Grande Méier	Gordinho da Usina 
+636	Norte	Gordinho da Usina 
+637	Oeste: Outros	Dudu Cremoso 
+638	Oeste: Outros	Valéria Minha Prima 
+639	Grande Méier	Gordinho da Usina 
+640	Grande Méier	Alessandro Fuscão 
+641	Grande Méier	Dudu Cremoso 
+642	Grande Méier	Gordinho da Usina 
+643	Grande Méier	Quinzinho da Água Parada 
+644	Grande Méier	Alessandro Fuscão 
+645	Oeste: Grande Bangu	Gordinho da Usina 
+646	Norte	Valéria Minha Prima 
+647	Grande Méier	Ferreira do Suvacão 
+648	Oeste: Grande Bangu	Valéria Minha Prima 
+649	Grande Méier	Enia da Toca da Onça 
+650	Oeste: Barra e JPA	Adriano Pirulito 
+651	Oeste: Grande Bangu	Dudu Cremoso 
+652	Oeste: Grande Bangu	Alessandro Fuscão 
+653	Grande Méier	Alessandro Fuscão 
+654	Oeste: Barra e JPA	Dudu Cremoso 
+655	Oeste: Barra e JPA	Gordinho da Usina 
+656	Norte	Quinzinho da Água Parada 
+657	Oeste: Barra e JPA	Valéria Minha Prima 
+658	Grande Méier	Adriano Pirulito 
+659	Norte	Gordinho da Usina 
+660	Norte	Quinzinho da Água Parada 
+661	Oeste: Grande Bangu	Valéria Minha Prima 
+662	Grande Méier	Ferreira do Suvacão 
+663	Grande Méier	Professor Goiaba 
+664	Oeste: Outros	Enia da Toca da Onça 
+665	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+666	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+667	Oeste: Barra e JPA	Gordinho da Usina 
+668	Oeste: Outros	Agenor Passa Régua 
+669	Oeste: Barra e JPA	Adriano Pirulito 
+670	Grande Méier	Gordinho da Usina 
+671	Grande Méier	Enia da Toca da Onça 
+672	Grande Méier	Gordinho da Usina 
+673	Oeste: Grande Bangu	Professor Goiaba 
+674	Oeste: Grande Bangu	Enia da Toca da Onça 
+675	Norte	Gordinho da Usina 
+676	Oeste: Grande Bangu	Dudu Cremoso 
+677	Grande Méier	Agenor Passa Régua 
+678	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+679	Grande Méier	Enia da Toca da Onça 
+680	Oeste: Outros	Gordinho da Usina 
+681	Norte	Adriano Pirulito 
+682	Norte	Quinzinho da Água Parada 
+683	Oeste: Barra e JPA	Adriano Pirulito 
+684	Norte	Ferreira do Suvacão 
+685	Oeste: Barra e JPA	Gordinho da Usina 
+686	Norte	Agenor Passa Régua 
+687	Grande Méier	Ferreira do Suvacão 
+688	Oeste: Outros	Adriano Pirulito 
+689	Norte	Ângela do Zé Rolinha 
+690	Oeste: Grande Bangu	Ferreira do Suvacão 
+691	Grande Méier	Agenor Passa Régua 
+692	Oeste: Outros	Gordinho da Usina 
+693	Oeste: Outros	Agenor Passa Régua 
+694	Grande Méier	Agenor Passa Régua 
+695	Grande Méier	Alessandro Fuscão 
+696	Grande Méier	Dudu Cremoso 
+697	Oeste: Outros	Agenor Passa Régua 
+698	Oeste: Barra e JPA	Agenor Passa Régua 
+699	Oeste: Barra e JPA	Valéria Minha Prima 
+700	Grande Méier	Valéria Minha Prima 
+701	Oeste: Grande Bangu	Enia da Toca da Onça 
+702	Oeste: Barra e JPA	Ferreira do Suvacão 
+703	Oeste: Outros	Dudu Cremoso 
+704	Norte	Agenor Passa Régua 
+705	Oeste: Outros	Alessandro Fuscão 
+706	Oeste: Grande Bangu	Ferreira do Suvacão 
+707	Grande Méier	Adriano Pirulito 
+708	Oeste: Barra e JPA	Professor Goiaba 
+709	Norte	Ferreira do Suvacão 
+710	Oeste: Grande Bangu	Quinzinho da Água Parada 
+711	Norte	Gordinho da Usina 
+712	Norte	Agenor Passa Régua 
+713	Oeste: Barra e JPA	Agenor Passa Régua 
+714	Oeste: Barra e JPA	Ângela do Zé Rolinha 
+715	Oeste: Barra e JPA	Professor Goiaba 
+716	Oeste: Outros	Quinzinho da Água Parada 
+717	Oeste: Outros	Alessandro Fuscão 
+718	Norte	Enia da Toca da Onça 
+719	Oeste: Grande Bangu	Adriano Pirulito 
+720	Norte	Valéria Minha Prima 
+721	Oeste: Barra e JPA	Ferreira do Suvacão 
+722	Oeste: Barra e JPA	Ferreira do Suvacão 
+723	Oeste: Grande Bangu	Professor Goiaba 
+724	Oeste: Grande Bangu	Adriano Pirulito 
+725	Norte	Alessandro Fuscão 
+726	Oeste: Outros	Agenor Passa Régua 
+727	Oeste: Barra e JPA	Agenor Passa Régua 
+728	Grande Méier	Ângela do Zé Rolinha 
+729	Oeste: Outros	Enia da Toca da Onça 
+730	Norte	Quinzinho da Água Parada 
+731	Oeste: Grande Bangu	Gordinho da Usina 
+732	Grande Méier	Ferreira do Suvacão 
+733	Grande Méier	Professor Goiaba 
+734	Norte	Gordinho da Usina 
+735	Oeste: Barra e JPA	Dudu Cremoso 
+736	Norte	Dudu Cremoso 
+737	Norte	Valéria Minha Prima 
+738	Norte	Alessandro Fuscão 
+739	Oeste: Outros	Ferreira do Suvacão 
+740	Oeste: Barra e JPA	Alessandro Fuscão 
+741	Oeste: Barra e JPA	Professor Goiaba 
+742	Grande Méier	Dudu Cremoso 
+743	Norte	Quinzinho da Água Parada 
+744	Grande Méier	Quinzinho da Água Parada 
+745	Grande Méier	Valéria Minha Prima 
+746	Grande Méier	Adriano Pirulito 
+747	Oeste: Outros	Gordinho da Usina 
+748	Norte	Enia da Toca da Onça 
+749	Oeste: Grande Bangu	Professor Goiaba 
+750	Oeste: Barra e JPA	Quinzinho da Água Parada 
+751	Grande Méier	Professor Goiaba 
+752	Oeste: Barra e JPA	Professor Goiaba 
+753	Grande Méier	Gordinho da Usina 
+754	Norte	Professor Goiaba 
+755	Norte	Alessandro Fuscão 
+756	Oeste: Grande Bangu	Adriano Pirulito 
+757	Grande Méier	Quinzinho da Água Parada 
+758	Oeste: Outros	Alessandro Fuscão 
+759	Oeste: Barra e JPA	Gordinho da Usina 
+760	Oeste: Barra e JPA	Quinzinho da Água Parada 
+761	Norte	Valéria Minha Prima 
+762	Oeste: Barra e JPA	Ferreira do Suvacão 
+763	Oeste: Grande Bangu	Agenor Passa Régua 
+764	Oeste: Barra e JPA	Valéria Minha Prima 
+765	Oeste: Grande Bangu	Enia da Toca da Onça 
+766	Norte	Professor Goiaba 
+767	Norte	Professor Goiaba 
+768	Grande Méier	Quinzinho da Água Parada 
+769	Grande Méier	Ferreira do Suvacão 
+770	Oeste: Outros	Professor Goiaba 
+771	Oeste: Outros	Ângela do Zé Rolinha 
+772	Oeste: Outros	Enia da Toca da Onça 
+773	Oeste: Outros	Gordinho da Usina 
+774	Oeste: Grande Bangu	Quinzinho da Água Parada 
+775	Oeste: Outros	Professor Goiaba 
+776	Oeste: Grande Bangu	Valéria Minha Prima 
+777	Oeste: Barra e JPA	Enia da Toca da Onça 
+778	Oeste: Grande Bangu	Gordinho da Usina 
+779	Oeste: Grande Bangu	Dudu Cremoso 
+780	Grande Méier	Dudu Cremoso 
+781	Norte	Adriano Pirulito 
+782	Oeste: Barra e JPA	Ferreira do Suvacão 
+783	Grande Méier	Ângela do Zé Rolinha 
+784	Oeste: Grande Bangu	Alessandro Fuscão 
+785	Norte	Ângela do Zé Rolinha 
+786	Oeste: Grande Bangu	Professor Goiaba 
+787	Oeste: Grande Bangu	Professor Goiaba 
+788	Oeste: Outros	Adriano Pirulito 
+789	Grande Méier	Ferreira do Suvacão 
+790	Norte	Professor Goiaba 
+791	Oeste: Outros	Adriano Pirulito 
+792	Oeste: Outros	Professor Goiaba 
+793	Norte	Ângela do Zé Rolinha 
+794	Grande Méier	Adriano Pirulito 
+795	Norte	Alessandro Fuscão 
+796	Grande Méier	Ângela do Zé Rolinha 
+797	Oeste: Barra e JPA	Ferreira do Suvacão 
+798	Grande Méier	Adriano Pirulito 
+799	Oeste: Outros	Ferreira do Suvacão 
+800	Grande Méier	Quinzinho da Água Parada 
+801	Oeste: Outros	Adriano Pirulito 
+802	Grande Méier	Professor Goiaba 
+803	Oeste: Outros	Gordinho da Usina 
+804	Grande Méier	Adriano Pirulito 
+805	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+806	Oeste: Barra e JPA	Professor Goiaba 
+807	Norte	Quinzinho da Água Parada 
+808	Norte	Dudu Cremoso 
+809	Grande Méier	Alessandro Fuscão 
+810	Grande Méier	Quinzinho da Água Parada 
+811	Norte	Quinzinho da Água Parada 
+812	Grande Méier	Adriano Pirulito 
+813	Norte	Ferreira do Suvacão 
+814	Grande Méier	Gordinho da Usina 
+815	Oeste: Barra e JPA	Agenor Passa Régua 
+816	Grande Méier	Alessandro Fuscão 
+817	Grande Méier	Enia da Toca da Onça 
+818	Oeste: Barra e JPA	Gordinho da Usina 
+819	Grande Méier	Quinzinho da Água Parada 
+820	Grande Méier	Ferreira do Suvacão 
+821	Oeste: Grande Bangu	Dudu Cremoso 
+822	Oeste: Outros	Ângela do Zé Rolinha 
+823	Oeste: Barra e JPA	Professor Goiaba 
+824	Norte	Valéria Minha Prima 
+825	Norte	Ferreira do Suvacão 
+826	Oeste: Barra e JPA	Valéria Minha Prima 
+827	Oeste: Outros	Alessandro Fuscão 
+828	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+829	Oeste: Barra e JPA	Dudu Cremoso 
+830	Oeste: Outros	Adriano Pirulito 
+831	Oeste: Barra e JPA	Professor Goiaba 
+832	Oeste: Grande Bangu	Adriano Pirulito 
+833	Oeste: Outros	Professor Goiaba 
+834	Oeste: Outros	Ferreira do Suvacão 
+835	Oeste: Outros	Quinzinho da Água Parada 
+836	Grande Méier	Ferreira do Suvacão 
+837	Oeste: Outros	Enia da Toca da Onça 
+838	Oeste: Outros	Professor Goiaba 
+839	Oeste: Outros	Dudu Cremoso 
+840	Oeste: Grande Bangu	Valéria Minha Prima 
+841	Oeste: Outros	Alessandro Fuscão 
+842	Oeste: Barra e JPA	Quinzinho da Água Parada 
+843	Norte	Adriano Pirulito 
+844	Norte	Enia da Toca da Onça 
+845	Oeste: Outros	Alessandro Fuscão 
+846	Oeste: Grande Bangu	Professor Goiaba 
+847	Norte	Ferreira do Suvacão 
+848	Oeste: Barra e JPA	Ferreira do Suvacão 
+849	Oeste: Grande Bangu	Ângela do Zé Rolinha 
+850	Oeste: Barra e JPA	Alessandro Fuscão 
+851	Oeste: Outros	Professor Goiaba 
+852	Oeste: Outros	Valéria Minha Prima 
+853	Grande Méier	Ângela do Zé Rolinha 
+854	Oeste: Outros	Gordinho da Usina 
+855	Oeste: Barra e JPA	Adriano Pirulito 
+856	Norte	Madurão 
+857	Oeste: Grande Bangu	Ricardo Fucinho 
+858	Grande Méier	Madurão 
+859	Oeste: Outros	Ricardo Fucinho 
+860	Oeste: Barra e JPA	Itamar Boi 
+861	Norte	Advogado de Deus 
+862	Oeste: Outros	Madurão 
+863	Oeste: Outros	Donizete Gato Preto 
+864	Norte	Sallim Solução Amor no Coração 
+865	Oeste: Barra e JPA	Madurão 
+866	Norte	Madurão 
+867	Oeste: Outros	Madurão 
+868	Norte	Itamar Boi 
+869	Oeste: Grande Bangu	Advogado de Deus 
+870	Norte	Madurão 
+871	Grande Méier	Tadeu Tô Contigo 
+872	Grande Méier	Donizete Gato Preto 
+873	Grande Méier	Madurão 
+874	Oeste: Grande Bangu	Donizete Gato Preto 
+875	Oeste: Grande Bangu	Itamar Boi 
+876	Oeste: Barra e JPA	Tadeu Tô Contigo 
+877	Oeste: Outros	Itamar Boi 
+878	Norte	Sallim Solução Amor no Coração 
+879	Oeste: Grande Bangu	Tadeu Tô Contigo 
+880	Oeste: Outros	Madurão 
+881	Oeste: Grande Bangu	Tadeu Tô Contigo 
+882	Grande Méier	Ricardo Fucinho 
+883	Grande Méier	Donizete Gato Preto 
+884	Oeste: Barra e JPA	Tadeu Tô Contigo 
+885	Oeste: Barra e JPA	Madurão 
+886	Oeste: Outros	Ricardo Fucinho 
+887	Norte	Madurão 
+888	Grande Méier	Sallim Solução Amor no Coração 
+889	Grande Méier	Advogado de Deus 
+890	Oeste: Barra e JPA	Tadeu Tô Contigo 
+891	Oeste: Barra e JPA	Advogado de Deus 
+892	Oeste: Outros	Tadeu Tô Contigo 
+893	Grande Méier	Advogado de Deus 
+894	Oeste: Grande Bangu	Donizete Gato Preto 
+895	Oeste: Outros	Advogado de Deus 
+896	Oeste: Outros	Madurão 
+897	Norte	Ricardo Fucinho 
+898	Oeste: Outros	Ricardo Fucinho 
+899	Oeste: Outros	Sallim Solução Amor no Coração 
+900	Oeste: Grande Bangu	Tadeu Tô Contigo 
+901	Grande Méier	Sallim Solução Amor no Coração 
+902	Oeste: Grande Bangu	Itamar Boi 
+903	Oeste: Grande Bangu	Madurão 
+904	Oeste: Grande Bangu	Itamar Boi 
+905	Oeste: Grande Bangu	Sallim Solução Amor no Coração 
+906	Oeste: Grande Bangu	Madurão 
+907	Oeste: Outros	Advogado de Deus 
+908	Grande Méier	Itamar Boi 
+909	Norte	Tadeu Tô Contigo 
+910	Norte	Madurão 
+911	Oeste: Grande Bangu	Madurão 
+912	Oeste: Outros	Itamar Boi 
+913	Norte	Donizete Gato Preto 
+914	Grande Méier	Tadeu Tô Contigo 
+915	Oeste: Grande Bangu	Donizete Gato Preto 
+916	Oeste: Barra e JPA	Madurão 
+917	Norte	Itamar Boi 
+918	Norte	Itamar Boi 
+919	Norte	Madurão 
+920	Oeste: Outros	Advogado de Deus 
+921	Grande Méier	Advogado de Deus 
+922	Oeste: Grande Bangu	Madurão 
+923	Oeste: Barra e JPA	Advogado de Deus 
+924	Oeste: Barra e JPA	Tadeu Tô Contigo 
+925	Oeste: Outros	Tadeu Tô Contigo 
+926	Oeste: Outros	Madurão 
+927	Oeste: Grande Bangu	Itamar Boi 
+928	Oeste: Barra e JPA	Donizete Gato Preto 
+929	Grande Méier	Madurão 
+930	Oeste: Outros	Ricardo Fucinho 
+931	Oeste: Grande Bangu	Madurão 
+932	Norte	Madurão 
+933	Grande Méier	Madurão 
+934	Oeste: Outros	Donizete Gato Preto 
+935	Grande Méier	Itamar Boi 
+936	Oeste: Outros	Madurão 
+937	Oeste: Grande Bangu	Advogado de Deus 
+938	Oeste: Grande Bangu	Sallim Solução Amor no Coração 
+939	Oeste: Outros	Tadeu Tô Contigo 
+940	Oeste: Grande Bangu	Ricardo Fucinho 
+941	Oeste: Barra e JPA	Advogado de Deus 
+942	Oeste: Barra e JPA	Sallim Solução Amor no Coração 
+943	Norte	Madurão 
+944	Oeste: Grande Bangu	Tadeu Tô Contigo 
+945	Grande Méier	Ricardo Fucinho 
+946	Norte	Sallim Solução Amor no Coração 
+947	Oeste: Grande Bangu	Itamar Boi 
+948	Norte	Sallim Solução Amor no Coração 
+949	Oeste: Outros	Ricardo Fucinho 
+950	Oeste: Outros	Itamar Boi 
+951	Norte	Advogado de Deus 
+952	Oeste: Barra e JPA	Donizete Gato Preto 
+953	Oeste: Barra e JPA	Ricardo Fucinho 
+954	Oeste: Outros	Advogado de Deus 
+955	Oeste: Grande Bangu	Itamar Boi 
+956	Oeste: Outros	Ricardo Fucinho 
+957	Oeste: Outros	Itamar Boi 
+958	Oeste: Outros	Sallim Solução Amor no Coração 
+959	Norte	Donizete Gato Preto 
+960	Oeste: Grande Bangu	Madurão 
+961	Grande Méier	Donizete Gato Preto 
+962	Norte	Sallim Solução Amor no Coração 
+963	Grande Méier	Donizete Gato Preto 
+964	Oeste: Outros	Sallim Solução Amor no Coração 
+965	Norte	Tadeu Tô Contigo 
+966	Oeste: Barra e JPA	Ricardo Fucinho 
+967	Norte	Donizete Gato Preto 
+968	Oeste: Barra e JPA	Ricardo Fucinho 
+969	Norte	Advogado de Deus 
+970	Oeste: Outros	Sallim Solução Amor no Coração 
+971	Oeste: Grande Bangu	Itamar Boi 
+972	Grande Méier	Donizete Gato Preto 
+973	Norte	Sallim Solução Amor no Coração 
+974	Oeste: Barra e JPA	Ricardo Fucinho 
+975	Oeste: Outros	Madurão 
+976	Oeste: Outros	Sallim Solução Amor no Coração 
+977	Norte	Itamar Boi 
+978	Grande Méier	Donizete Gato Preto 
+979	Oeste: Outros	Tadeu Tô Contigo 
+980	Norte	Itamar Boi 
+981	Norte	Sallim Solução Amor no Coração 
+982	Oeste: Barra e JPA	Madurão 
+983	Norte	Advogado de Deus 
+984	Oeste: Barra e JPA	Donizete Gato Preto 
+985	Oeste: Outros	Ricardo Fucinho 
+986	Oeste: Barra e JPA	Tadeu Tô Contigo 
+987	Grande Méier	Tadeu Tô Contigo 
+988	Oeste: Barra e JPA	Ricardo Fucinho 
+989	Norte	Advogado de Deus 
+990	Oeste: Barra e JPA	Madurão 
+991	Oeste: Outros	Ricardo Fucinho 
+992	Grande Méier	Tadeu Tô Contigo 
+993	Oeste: Outros	Donizete Gato Preto 
+994	Oeste: Barra e JPA	Advogado de Deus 
+995	Oeste: Grande Bangu	Madurão 
+996	Grande Méier	Itamar Boi 
+997	Oeste: Outros	Donizete Gato Preto 
+998	Oeste: Barra e JPA	Itamar Boi 
+999	Grande Méier	Ricardo Fucinho 
+1000	Oeste: Barra e JPA	Donizete Gato Preto 
+1001	Oeste: Outros	Sallim Solução Amor no Coração 
+1002	Grande Méier	Madurão 
+1003	Oeste: Outros	Sallim Solução Amor no Coração 
+1004	Oeste: Barra e JPA	Itamar Boi 
+1005	Oeste: Outros	Sallim Solução Amor no Coração 
+1006	Oeste: Grande Bangu	Advogado de Deus 
+1007	Oeste: Grande Bangu	Sallim Solução Amor no Coração 
+1008	Oeste: Grande Bangu	Madurão 
+1009	Oeste: Barra e JPA	Tadeu Tô Contigo 
+1010	Oeste: Barra e JPA	Advogado de Deus 
+1011	Oeste: Grande Bangu	Donizete Gato Preto 
+1012	Oeste: Grande Bangu	Itamar Boi 
+1013	Grande Méier	Tadeu Tô Contigo 
+1014	Norte	Itamar Boi 
+1015	Norte	Sallim Solução Amor no Coração 
+1016	Oeste: Barra e JPA	Donizete Gato Preto 
+1017	Oeste: Grande Bangu	Tadeu Tô Contigo 
+1018	Oeste: Barra e JPA	Madurão 
+1019	Grande Méier	Ricardo Fucinho 
+1020	Oeste: Grande Bangu	Ricardo Fucinho 
+1021	Oeste: Barra e JPA	Sallim Solução Amor no Coração 
+1022	Norte	Donizete Gato Preto 
+1023	Oeste: Grande Bangu	Donizete Gato Preto 
+1024	Grande Méier	Sallim Solução Amor no Coração 
+1025	Norte	Advogado de Deus 
+1026	Oeste: Barra e JPA	Sallim Solução Amor no Coração 
+1027	Oeste: Barra e JPA	Sallim Solução Amor no Coração 
+1028	Grande Méier	Ricardo Fucinho 
+1029	Grande Méier	Itamar Boi 
+1030	Oeste: Barra e JPA	Itamar Boi 
+1031	Oeste: Grande Bangu	Donizete Gato Preto 
+1032	Oeste: Outros	Advogado de Deus 
+1033	Oeste: Outros	Advogado de Deus 
+1034	Norte	Tadeu Tô Contigo 
+1035	Oeste: Outros	Itamar Boi 
+1036	Oeste: Barra e JPA	Madurão 
+1037	Oeste: Barra e JPA	Itamar Boi 
+1038	Oeste: Grande Bangu	Madurão 
+1039	Oeste: Barra e JPA	Tadeu Tô Contigo 
+1040	Oeste: Outros	Madurão 
+1041	Grande Méier	Ricardo Fucinho 
+1042	Oeste: Outros	Donizete Gato Preto 
+1043	Oeste: Barra e JPA	Donizete Gato Preto 
+1044	Oeste: Outros	Sallim Solução Amor no Coração 
+1045	Oeste: Barra e JPA	Madurão 
+1046	Grande Méier	Madurão 
+1047	Norte	Sallim Solução Amor no Coração 
+1048	Oeste: Outros	Tadeu Tô Contigo 
+1049	Oeste: Barra e JPA	Donizete Gato Preto 
+1050	Norte	Donizete Gato Preto 
+1051	Norte	Tadeu Tô Contigo 
+1052	Grande Méier	Advogado de Deus 
+1053	Oeste: Outros	Sallim Solução Amor no Coração 
+1054	Oeste: Outros	Tadeu Tô Contigo 
+1055	Oeste: Barra e JPA	Sallim Solução Amor no Coração 
+1056	Oeste: Grande Bangu	Donizete Gato Preto 
+1057	Grande Méier	Madurão 
+1058	Grande Méier	Donizete Gato Preto 
+1059	Grande Méier	Itamar Boi 
+1060	Oeste: Grande Bangu	Donizete Gato Preto 
+1061	Norte	Itamar Boi 
+1062	Grande Méier	Sallim Solução Amor no Coração 
+1063	Oeste: Grande Bangu	Donizete Gato Preto 
+1064	Oeste: Outros	Itamar Boi 
+1065	Oeste: Barra e JPA	Itamar Boi 
+1066	Oeste: Grande Bangu	Tadeu Tô Contigo 
+1067	Oeste: Grande Bangu	Tadeu Tô Contigo 
+1068	Grande Méier	Madurão 
+1069	Ilha e Leopoldina	Madurão 
+1070	Ilha e Leopoldina	Donizete Gato Preto 
+1071	Norte	Donizete Gato Preto 
+1072	Central	Sallim Solução Amor no Coração 
+1073	Ilha e Leopoldina	Advogado de Deus 
+1074	Grande Tijuca	Donizete Gato Preto 
+1075	Grande Tijuca	Madurão 
+1076	Central	Sallim Solução Amor no Coração 
+1077	Sul	Tadeu Tô Contigo 
+1078	Norte	Sallim Solução Amor no Coração 
+1079	Ilha e Leopoldina	Tadeu Tô Contigo 
+1080	Oeste: Outros	Madurão 
+1081	Norte	Donizete Gato Preto 
+1082	Grande Tijuca	Donizete Gato Preto 
+1083	Norte	Itamar Boi 
+1084	Sul	Donizete Gato Preto 
+1085	Oeste: Outros	Sallim Solução Amor no Coração 
+1086	Norte	Ricardo Fucinho 
+1087	Sul	Madurão 
+1088	Norte	Ricardo Fucinho 
+1089	Ilha e Leopoldina	Madurão 
+1090	Norte	Tadeu Tô Contigo 
+1091	Oeste: Outros	Itamar Boi 
+1092	Sul	Madurão 
+1093	Central	Madurão 
+1094	Central	Madurão 
+1095	Oeste: Outros	Advogado de Deus 
+1096	Central	Donizete Gato Preto 
+1097	Ilha e Leopoldina	Advogado de Deus 
+1098	Sul	Ricardo Fucinho 
+1099	Oeste: Outros	Ricardo Fucinho 
+1100	Central	Sallim Solução Amor no Coração 
+1101	Oeste: Outros	Sallim Solução Amor no Coração 
+1102	Norte	Ricardo Fucinho 
+1103	Norte	Sallim Solução Amor no Coração 
+1104	Grande Tijuca	Sallim Solução Amor no Coração 
+1105	Grande Tijuca	Sallim Solução Amor no Coração 
+1106	Central	Madurão 
+1107	Central	Donizete Gato Preto 
+1108	Central	Sallim Solução Amor no Coração 
+1109	Ilha e Leopoldina	Donizete Gato Preto 
+1110	Central	Advogado de Deus 
+1111	Norte	Donizete Gato Preto 
+1112	Central	Tadeu Tô Contigo 
+1113	Norte	Itamar Boi 
+1114	Central	Donizete Gato Preto 
+1115	Sul	Advogado de Deus 
+1116	Oeste: Outros	Ricardo Fucinho 
+1117	Central	Madurão 
+1118	Oeste: Outros	Sallim Solução Amor no Coração 
+1119	Oeste: Outros	Tadeu Tô Contigo 
+1120	Ilha e Leopoldina	Ricardo Fucinho 
+1121	Sul	Advogado de Deus 
+1122	Norte	Tadeu Tô Contigo 
+1123	Grande Tijuca	Sallim Solução Amor no Coração 
+1124	Oeste: Outros	Madurão 
+1125	Grande Tijuca	Ricardo Fucinho 
+1126	Sul	Sallim Solução Amor no Coração 
+1127	Oeste: Outros	Donizete Gato Preto 
+1128	Norte	Sallim Solução Amor no Coração 
+1129	Central	Itamar Boi 
+1130	Grande Tijuca	Sallim Solução Amor no Coração 
+1131	Central	Sallim Solução Amor no Coração 
+1132	Norte	Madurão 
+1133	Ilha e Leopoldina	Donizete Gato Preto 
+1134	Norte	Tadeu Tô Contigo 
+1135	Central	Sallim Solução Amor no Coração 
+1136	Central	Sallim Solução Amor no Coração 
+1137	Central	Itamar Boi 
+1138	Oeste: Outros	Tadeu Tô Contigo 
+1139	Oeste: Outros	Madurão 
+1140	Ilha e Leopoldina	Tadeu Tô Contigo 
+1141	Ilha e Leopoldina	Madurão 
+1142	Ilha e Leopoldina	Sallim Solução Amor no Coração 
+1143	Central	Itamar Boi 
+1144	Oeste: Outros	Donizete Gato Preto 
+1145	Grande Tijuca	Itamar Boi 
+1146	Sul	Advogado de Deus 
+1147	Oeste: Outros	Tadeu Tô Contigo 
+1148	Central	Madurão 
+1149	Norte	Advogado de Deus 
+1150	Central	Sallim Solução Amor no Coração 
+1151	Norte	Itamar Boi 
+1152	Grande Tijuca	Tadeu Tô Contigo 
+1153	Grande Tijuca	Itamar Boi 
+1154	Oeste: Outros	Ricardo Fucinho 
+1155	Norte	Ricardo Fucinho 
+1156	Central	Advogado de Deus 
+1157	Sul	Sallim Solução Amor no Coração 
+1158	Central	Donizete Gato Preto 
+1159	Central	Itamar Boi 
+1160	Ilha e Leopoldina	Sallim Solução Amor no Coração 
+1161	Oeste: Outros	Advogado de Deus 
+1162	Central	Tadeu Tô Contigo 
+1163	Sul	Madurão 
+1164	Sul	Advogado de Deus 
+1165	Norte	Donizete Gato Preto 
+1166	Ilha e Leopoldina	Itamar Boi 
+1167	Grande Tijuca	Sallim Solução Amor no Coração 
+1168	Sul	Ricardo Fucinho 
+1169	Grande Tijuca	Donizete Gato Preto 
+1170	Ilha e Leopoldina	Advogado de Deus 
+1171	Grande Tijuca	Tadeu Tô Contigo 
+1172	Central	Donizete Gato Preto 
+1173	Ilha e Leopoldina	Donizete Gato Preto 
+1174	Norte	Itamar Boi 
+1175	Sul	Itamar Boi 
+1176	Norte	Donizete Gato Preto 
+1177	Central	Donizete Gato Preto 
+1178	Oeste: Outros	Tadeu Tô Contigo 
+1179	Norte	Sallim Solução Amor no Coração 
+1180	Sul	Tadeu Tô Contigo 
+1181	Grande Tijuca	Sallim Solução Amor no Coração 
+1182	Ilha e Leopoldina	Advogado de Deus 
+1183	Norte	Advogado de Deus 
+1184	Central	Donizete Gato Preto 
+1185	Ilha e Leopoldina	Donizete Gato Preto 
+1186	Oeste: Outros	Sallim Solução Amor no Coração 
+1187	Central	Itamar Boi 
+1188	Grande Tijuca	Madurão 
+1189	Central	Sallim Solução Amor no Coração 
+1190	Ilha e Leopoldina	Advogado de Deus 
+1191	Sul	Itamar Boi 
+1192	Norte	Donizete Gato Preto 
+1193	Ilha e Leopoldina	Sallim Solução Amor no Coração 
+1194	Oeste: Outros	Madurão 
+1195	Norte	Tadeu Tô Contigo 
+1196	Oeste: Outros	Sallim Solução Amor no Coração 
+1197	Ilha e Leopoldina	Donizete Gato Preto 
+1198	Grande Tijuca	Sallim Solução Amor no Coração 
+1199	Grande Tijuca	Valéria Minha Prima 
+1200	Norte	Enia da Toca da Onça 
+1201	Norte	Professor Goiaba 
+1202	Sul	Ferreira do Suvacão 
+1203	Ilha e Leopoldina	Quinzinho da Água Parada 
+1204	Oeste: Outros	Madurão 
+1205	Norte	Itamar Boi 
+1206	Central	Valéria Minha Prima 
+1207	Sul	Enia da Toca da Onça 
+1208	Grande Tijuca	Ângela do Zé Rolinha 
+1209	Sul	Sallim Solução Amor no Coração 
+1210	Central	Adriano Pirulito 
+1211	Sul	Ângela do Zé Rolinha 
+1212	Oeste: Outros	Herminho Anão da VGC 
+1213	Sul	Pé de Pato do Lixo 
+1214	Central	Quinzinho da Água Parada 
+1215	Sul	Itamar Boi 
+1216	Ilha e Leopoldina	Alessandro Fuscão 
+1217	Central	Donizete Gato Preto 
+1218	Ilha e Leopoldina	Gordinho da Usina 
+1219	Grande Tijuca	Zé Perninha 
+1220	Grande Tijuca	Advogado de Deus 
+1221	Ilha e Leopoldina	Agenor Passa Régua 
+1222	Grande Tijuca	Adriano Pirulito 
+1223	Sul	Professor Goiaba 
+1224	Ilha e Leopoldina	Tadeu Tô Contigo 
+1225	Norte	Zé Perninha 
+1226	Oeste: Outros	Advogado de Deus 
+1227	Norte	Ângela do Zé Rolinha 
+1228	Norte	Ferreira do Suvacão 
+1229	Oeste: Outros	Professor Goiaba 
+1230	Central	Ângela do Zé Rolinha 
+1231	Central	Capitã Cloroquina 
+1232	Sul	Gordinho da Usina 
+1233	Central	Capitã Cloroquina 
+1234	Oeste: Outros	Madurão 
+1235	Sul	Adriano Pirulito 
+1236	Grande Tijuca	Sallim Solução Amor no Coração 
+1237	Grande Tijuca	Ângela do Zé Rolinha 
+1238	Grande Tijuca	Capitã Cloroquina 
+1239	Norte	Pipi de Jorge 
+1240	Ilha e Leopoldina	Zé Perninha 
+1241	Norte	Quinzinho da Água Parada 
+1242	Central	Ângela do Zé Rolinha 
+1243	Central	Ângela do Zé Rolinha 
+1244	Ilha e Leopoldina	Ferreira do Suvacão 
+1245	Central	Capitã Cloroquina 
+1246	Central	Tadeu Tô Contigo 
+1247	Central	Valéria Minha Prima 
+1248	Central	Tadeu Tô Contigo 
+1249	Norte	Enia da Toca da Onça 
+1250	Ilha e Leopoldina	Donizete Gato Preto 
+1251	Norte	Enia da Toca da Onça 
+1252	Central	Madurão 
+1253	Oeste: Outros	Itamar Boi 
+1254	Oeste: Outros	Gordinho da Usina 
+1255	Grande Tijuca	Professor Goiaba 
+1256	Grande Tijuca	Valéria Minha Prima 
+1257	Sul	Ângela do Zé Rolinha 
+1258	Norte	Pipi de Jorge 
+1259	Grande Tijuca	Agenor Passa Régua 
+1260	Ilha e Leopoldina	Enia da Toca da Onça 
+1261	Grande Tijuca	Quinzinho da Água Parada 
+1262	Oeste: Outros	Pé de Pato do Lixo 
+1263	Grande Tijuca	Pé de Pato do Lixo 
+1264	Oeste: Outros	Zé Perninha 
+1265	Norte	Madurão 
+1266	Sul	Ângela do Zé Rolinha 
+1267	Ilha e Leopoldina	Ferreira do Suvacão 
+1268	Grande Tijuca	Sallim Solução Amor no Coração 
+1269	Grande Tijuca	Tadeu Tô Contigo 
+1270	Ilha e Leopoldina	Tadeu Tô Contigo 
+1271	Ilha e Leopoldina	Herminho Anão da VGC 
+1272	Norte	Alessandro Fuscão 
+1273	Oeste: Outros	Quinzinho da Água Parada 
+1274	Grande Tijuca	Dudu Cremoso 
+1275	Sul	Tadeu Tô Contigo 
+1276	Central	Pé de Pato do Lixo 
+1277	Grande Tijuca	Gordinho da Usina 
+1278	Oeste: Outros	Sallim Solução Amor no Coração 
+1279	Central	Gordinho da Usina 
+1280	Sul	Quinzinho da Água Parada 
+1281	Norte	Agenor Passa Régua 
+1282	Grande Tijuca	Ferreira do Suvacão 
+1283	Sul	Zé Perninha 
+1284	Ilha e Leopoldina	Quinzinho da Água Parada 
+1285	Sul	Adriano Pirulito 
+1286	Norte	Pé de Pato do Lixo 
+1287	Ilha e Leopoldina	Capitã Cloroquina 
+1288	Central	Capitã Cloroquina 
+1289	Oeste: Outros	Ricardo Fucinho 
+1290	Oeste: Outros	Dudu Cremoso 
+1291	Norte	Valéria Minha Prima 
+1292	Grande Tijuca	Adriano Pirulito 
+1293	Norte	Adriano Pirulito 
+1294	Sul	Valéria Minha Prima 
+1295	Oeste: Outros	Quinzinho da Água Parada 
+1296	Ilha e Leopoldina	Tadeu Tô Contigo 
+1297	Grande Tijuca	Ferreira do Suvacão 
+1298	Norte	Sallim Solução Amor no Coração 
+1299	Grande Tijuca	Donizete Gato Preto 
+1300	Grande Tijuca	Enia da Toca da Onça 
+1301	Central	Capitã Cloroquina 
+1302	Oeste: Outros	Sallim Solução Amor no Coração 
+1303	Norte	Ferreira do Suvacão 
+1304	Ilha e Leopoldina	Ângela do Zé Rolinha 
+1305	Ilha e Leopoldina	Zé Perninha 
+1306	Sul	Agenor Passa Régua 
+1307	Central	Pé de Pato do Lixo 
+1308	Oeste: Outros	Gordinho da Usina 
+1309	Ilha e Leopoldina	Capitã Cloroquina 
+1310	Ilha e Leopoldina	Capitã Cloroquina 
+1311	Ilha e Leopoldina	Alessandro Fuscão 
+1312	Sul	Ferreira do Suvacão 
+1313	Norte	Capitã Cloroquina 
+1314	Ilha e Leopoldina	Ricardo Fucinho 
+1315	Grande Tijuca	Itamar Boi 
+1316	Oeste: Outros	Itamar Boi 
+1317	Grande Tijuca	Ferreira do Suvacão 
+1318	Grande Tijuca	Ângela do Zé Rolinha 
+1319	Central	Capitã Cloroquina 
+1320	Central	Pé de Pato do Lixo 
+1321	Sul	Agenor Passa Régua 
+1322	Oeste: Outros	Donizete Gato Preto 
+1323	Norte	Capitã Cloroquina 
+1324	Ilha e Leopoldina	Ferreira do Suvacão 
+1325	Grande Tijuca	Professor Goiaba 
+1326	Grande Tijuca	Ferreira do Suvacão 
+1327	Sul	Adriano Pirulito 
+1328	Sul	Herminho Anão da VGC 
+1329	Sul	Valéria Minha Prima 
+1330	Grande Tijuca	Ângela do Zé Rolinha 
+1331	Sul	Madurão 
+1332	Oeste: Outros	Tadeu Tô Contigo 
+1333	Central	Quinzinho da Água Parada 
+1334	Sul	Advogado de Deus 
+1335	Central	Dudu Cremoso 
+1336	Oeste: Outros	Professor Goiaba 
+1337	Norte	Pé de Pato do Lixo 
+1338	Norte	Agenor Passa Régua 
+1339	Sul	Ricardo Fucinho 
+1340	Central	Zé Perninha 
+1341	Grande Tijuca	Capitã Cloroquina 
+1342	Norte	Tadeu Tô Contigo 
+1343	Central	Itamar Boi 
+1344	Ilha e Leopoldina	Tadeu Tô Contigo 
+1345	Ilha e Leopoldina	Ferreira do Suvacão 
+1346	Ilha e Leopoldina	Alessandro Fuscão 
+1347	Ilha e Leopoldina	Dudu Cremoso 
+1348	Oeste: Outros	Ângela do Zé Rolinha 
+1349	Central	Sallim Solução Amor no Coração 
+1350	Sul	Gordinho da Usina 
+1351	Grande Tijuca	Ângela do Zé Rolinha 
+1352	Oeste: Outros	Ferreira do Suvacão 
+1353	Grande Tijuca	Capitã Cloroquina 
+1354	Grande Tijuca	Herminho Anão da VGC 
+1355	Sul	Ferreira do Suvacão 
+1356	Sul	Tadeu Tô Contigo 
+1357	Norte	Itamar Boi 
+1358	Norte	Professor Goiaba 
+1359	Sul	Ricardo Fucinho 
+1360	Norte	Capitã Cloroquina 
+1361	Grande Tijuca	Pé de Pato do Lixo 
+1362	Oeste: Outros	Ângela do Zé Rolinha 
+1363	Oeste: Outros	Madurão 
+1364	Oeste: Outros	Zé Perninha 
+1365	Ilha e Leopoldina	Adriano Pirulito 
+1366	Oeste: Outros	Ferreira do Suvacão 
+1367	Grande Tijuca	Quinzinho da Água Parada 
+1368	Norte	Quinzinho da Água Parada 
+1369	Grande Tijuca	Itamar Boi 
+1370	Central	Alessandro Fuscão 
+1371	Central	Pipi de Jorge 
+1372	Sul	Ângela do Zé Rolinha 
+1373	Oeste: Outros	Pipi de Jorge 
+1374	Grande Tijuca	Agenor Passa Régua 
+1375	Grande Tijuca	Ricardo Fucinho 
+1376	Central	Valéria Minha Prima 
+1377	Sul	Donizete Gato Preto 
+1378	Oeste: Outros	Itamar Boi 
+1379	Sul	Adriano Pirulito 
+1380	Sul	Agenor Passa Régua 
+1381	Sul	Adriano Pirulito 
+1382	Sul	Pipi de Jorge 
+1383	Sul	Alessandro Fuscão 
+1384	Grande Tijuca	Quinzinho da Água Parada 
+1385	Ilha e Leopoldina	Adriano Pirulito 
+1386	Oeste: Outros	Professor Goiaba 
+1387	Oeste: Outros	Ferreira do Suvacão 
+1388	Ilha e Leopoldina	Ricardo Fucinho 
+1389	Oeste: Outros	Alessandro Fuscão 
+1390	Norte	Professor Goiaba 
+1391	Oeste: Outros	Professor Goiaba 
+1392	Central	Herminho Anão da VGC 
+1393	Sul	Agenor Passa Régua 
+1394	Norte	Adriano Pirulito 
+1395	Ilha e Leopoldina	Advogado de Deus 
+1396	Grande Tijuca	Alessandro Fuscão 
+1397	Norte	Pé de Pato do Lixo 
+1398	Grande Tijuca	Herminho Anão da VGC 
+1399	Oeste: Outros	Enia da Toca da Onça 
+1400	Norte	Valéria Minha Prima 
+1401	Oeste: Outros	Agenor Passa Régua 
+1402	Grande Tijuca	Gordinho da Usina 
+1403	Norte	Madurão 
+1404	Sul	Herminho Anão da VGC 
+1405	Grande Tijuca	Valéria Minha Prima 
+1406	Grande Tijuca	Itamar Boi 
+1407	Sul	Adriano Pirulito 
+1408	Sul	Ângela do Zé Rolinha 
+1409	Central	Herminho Anão da VGC 
+1410	Central	Itamar Boi 
+1411	Sul	Ângela do Zé Rolinha 
+1412	Ilha e Leopoldina	Dudu Cremoso 
+1413	Oeste: Outros	Advogado de Deus 
+1414	Ilha e Leopoldina	Madurão 
+1415	Norte	Dudu Cremoso 
+1416	Sul	Sallim Solução Amor no Coração 
+1417	Oeste: Outros	Madurão 
+1418	Oeste: Outros	Zé Perninha 
+1419	Oeste: Outros	Advogado de Deus 
+1420	Ilha e Leopoldina	Adriano Pirulito 
+1421	Ilha e Leopoldina	Madurão 
+1422	Central	Gordinho da Usina 
+1423	Sul	Pé de Pato do Lixo 
+1424	Central	Donizete Gato Preto 
+1425	Sul	Ferreira do Suvacão 
+1426	Ilha e Leopoldina	Sallim Solução Amor no Coração 
+1427	Sul	Pipi de Jorge 
+1428	Norte	Tadeu Tô Contigo 
+1429	Oeste: Outros	Enia da Toca da Onça 
+1430	Norte	Zé Perninha 
+1431	Sul	Pipi de Jorge 
+1432	Grande Tijuca	Advogado de Deus 
+1433	Central	Professor Goiaba 
+1434	Grande Tijuca	Zé Perninha 
+1435	Sul	Madurão 
+1436	Norte	Advogado de Deus 
+1437	Grande Tijuca	Madurão 
+1438	Ilha e Leopoldina	Tadeu Tô Contigo 
+1439	Grande Tijuca	Tadeu Tô Contigo 
+1440	Sul	Dudu Cremoso 
+1441	Sul	Ricardo Fucinho 
+1442	Sul	Ângela do Zé Rolinha 
+1443	Grande Tijuca	Zé Perninha 
+1444	Central	Professor Goiaba 
+1445	Grande Tijuca	Adriano Pirulito 
+1446	Oeste: Outros	Alessandro Fuscão 
+1447	Sul	Madurão 
+1448	Sul	Zé Perninha 
+1449	Norte	Quinzinho da Água Parada 
+1450	Ilha e Leopoldina	Quinzinho da Água Parada 
+1451	Sul	Adriano Pirulito 
+1452	Sul	Valéria Minha Prima 
+1453	Norte	Zé Perninha 
+1454	Ilha e Leopoldina	Dudu Cremoso 
+1455	Grande Tijuca	Ângela do Zé Rolinha 
+1456	Oeste: Outros	Gordinho da Usina 
+1457	Norte	Alessandro Fuscão 
+1458	Ilha e Leopoldina	Quinzinho da Água Parada 
+1459	Sul	Madurão 
+1460	Central	Zé Perninha 
+1461	Ilha e Leopoldina	Tadeu Tô Contigo 
+1462	Ilha e Leopoldina	Agenor Passa Régua 
+1463	Norte	Agenor Passa Régua 
+1464	Norte	Pipi de Jorge 
+1465	Norte	Enia da Toca da Onça 
+1466	Central	Itamar Boi 
+1467	Central	Ricardo Fucinho 
+1468	Grande Tijuca	Professor Goiaba 
+1469	Sul	Valéria Minha Prima 
+1470	Central	Sallim Solução Amor no Coração 
+1471	Sul	Professor Goiaba 
+1472	Oeste: Outros	Sallim Solução Amor no Coração 
+1473	Ilha e Leopoldina	Enia da Toca da Onça 
+1474	Sul	Pipi de Jorge 
+1475	Sul	Dudu Cremoso 
+1476	Ilha e Leopoldina	Sallim Solução Amor no Coração 
+1477	Grande Tijuca	Ricardo Fucinho 
+1478	Oeste: Outros	Gordinho da Usina 
+1479	Norte	Dudu Cremoso 
+1480	Grande Tijuca	Pé de Pato do Lixo 
+1481	Ilha e Leopoldina	Enia da Toca da Onça 
+1482	Central	Valéria Minha Prima 
+1483	Oeste: Outros	Ângela do Zé Rolinha 
+1484	Oeste: Outros	Valéria Minha Prima 
+1485	Sul	Dudu Cremoso 
+1486	Grande Tijuca	Ferreira do Suvacão 
+1487	Sul	Donizete Gato Preto 
+1488	Ilha e Leopoldina	Ângela do Zé Rolinha 
+1489	Central	Adriano Pirulito 
+1490	Central	Enia da Toca da Onça 
+1491	Central	Capitã Cloroquina 
+1492	Central	Ricardo Fucinho 
+1493	Oeste: Outros	Capitã Cloroquina 
+1494	Grande Tijuca	Advogado de Deus 
+1495	Sul	Tadeu Tô Contigo 
+1496	Norte	Sallim Solução Amor no Coração 
+1497	Grande Tijuca	Sallim Solução Amor no Coração 
+1498	Norte	Adriano Pirulito 
+1499	Ilha e Leopoldina	Quinzinho da Água Parada 
+1500	Central	Madurão 
