@@ -12,6 +12,9 @@ Se a pasta não estiver no mesmo diretório que o arquivo, a imagem não aparece
 2. Mas você também pode fazer isso indo em diretamente no arquivo escolhido, clicar em `Raw` (canto superior direito). O código será aberto em uma nova janela e você poderá salvá-lo por `Ctrl` + `S` (ou `Command` + `S`). Salve apenas com a extensão original do arquivo, sem a extensão adicional que é colocada automaticamente. 
 
 
+3. Para os arquivos no formato `.pdf`, o download já aparece como opção imediata (canto superior direito).
+
+
 **ATENÇÃO:**
 
 Uma lista sempre pode usar tópicos já abordados nas listas anteriores. O mesmo ocorrem com os testes. A matéria é acumulativa! Quaisquer dúvidas é só entrar em contato. Os tópicos listados são apenas um guia do andamento do conteúdo. 
