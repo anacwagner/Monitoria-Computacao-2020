@@ -47,3 +47,8 @@ Lembre de colocar os arquivos no mesmo diretório, caso contrário, você dever�
 * Dicionários;
 
 * Leitura de arquivos;
+
+## Lista 5
+Para fazer a questão 7 é necessário ler as regras do jogo de boliche contidas no arquivo `boliche-regras-de-pontos.docx`. Para fazer a questão 9 é necessário fazer o download do arquivo `ocorrencias.xlsx`. Lembre de colocar os arquivos no mesmo diretório, caso contrário, você deverá informar o novo caminho da pasta e não apenas o nome do arquivo. 
+
+* Numpy (arrays e matrizes);
